@@ -61,7 +61,7 @@ Optional:
 `vercel.json` is already configured to:
 
 - Route all requests to `api/index.py`
-- Schedule `GET /api/cron` every 5 minutes
+- Schedule `GET /api/cron` once daily at 00:00 UTC (Hobby-compatible)
 
 ### 5. Verify
 
