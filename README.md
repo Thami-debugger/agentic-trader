@@ -74,3 +74,4 @@ Example authorized call:
 curl -H "Authorization: Bearer <CRON_SECRET>" https://<your-domain>/api/cron
 ```
 
+# agentic-trader
