@@ -4,17 +4,8 @@ pandas
 numpy
 ta
 yfinance
-ccxt
 MetaTrader5; platform_system == "Windows"
 openai
-langchain
-crewai
-sqlalchemy
-psycopg2-binary
-scikit-learn
-xgboost
-transformers
-torch
 feedparser
 requests
 python-dotenv

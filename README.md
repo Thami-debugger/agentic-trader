@@ -34,13 +34,10 @@ Important platform note:
 
 - Import this repo/project into Vercel.
 
-### 2. Configure install command
+### 2. Keep default install behavior
 
-Set Vercel Install Command to:
-
-```bash
-pip install -r requirements-vercel.txt
-```
+Do not set a custom Install Command in Vercel for this project.
+Vercel will install from `requirements.txt` and optimize bundling automatically.
 
 ### 3. Set environment variables
 
