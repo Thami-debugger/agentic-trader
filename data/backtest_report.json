@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-06-09T18:15:12.268547+00:00",
+  "symbol": "GC=F",
+  "comparison": [
+    {
+      "total_cycles": 291,
+      "total_trades": 20,
+      "buys": 8,
+      "sells": 12,
+      "holds": 271,
+      "wins": 4,
+      "losses": 16,
+      "win_rate_pct": 20.0,
+      "total_pnl_points": -436.6747,
+      "expectancy_points_per_trade": -21.8337,
+      "max_drawdown_points": 903.6509,
+      "avg_model_accuracy": 0.4,
+      "mode": "baseline",
+      "warmup_bars": 220,
+      "thresholds": {
+        "buy": 0.04,
+        "sell": -0.04,
+        "min_model_accuracy": 0.0,
+        "min_quant_confidence": 0.0,
+        "min_atr_pct": 0.0,
+        "max_atr_pct": 1.0,
+        "min_adx": 0.0,
+        "min_directional_votes": 1,
+        "max_rsi_for_buy": 70.0,
+        "min_rsi_for_sell": 30.0
+      }
+    },
+    {
+      "total_cycles": 291,
+      "total_trades": 4,
+      "buys": 2,
+      "sells": 2,
+      "holds": 287,
+      "wins": 1,
+      "losses": 3,
+      "win_rate_pct": 25.0,
+      "total_pnl_points": -32.2985,
+      "expectancy_points_per_trade": -8.0746,
+      "max_drawdown_points": 168.9726,
+      "avg_model_accuracy": 0.4,
+      "mode": "guarded",
+      "warmup_bars": 220,
+      "thresholds": {
+        "buy": 0.1,
+        "sell": -0.1,
+        "min_model_accuracy": 0.55,
+        "min_quant_confidence": 0.58,
+        "min_atr_pct": 0.0015,
+        "max_atr_pct": 0.02,
+        "min_adx": 18.0,
+        "min_directional_votes": 2,
+        "max_rsi_for_buy": 62.0,
+        "min_rsi_for_sell": 38.0
+      }
+    }
+  ]
+}

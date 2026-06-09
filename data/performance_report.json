@@ -1,0 +1,13 @@
+{
+  "available": true,
+  "symbol": "XAUUSDm",
+  "magic": 100,
+  "closed_trades": 13,
+  "wins": 5,
+  "losses": 8,
+  "win_rate_pct": 38.46,
+  "total_pnl": -247.06,
+  "expectancy_per_trade": -19.0,
+  "max_drawdown": 278.4,
+  "generated_at": "2026-06-09T18:39:55.542095+00:00"
+}

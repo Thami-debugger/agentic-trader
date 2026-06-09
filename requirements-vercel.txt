@@ -1,0 +1,11 @@
+fastapi
+pandas
+numpy
+ta
+yfinance
+openai
+scikit-learn
+feedparser
+requests
+python-dotenv
+textblob
